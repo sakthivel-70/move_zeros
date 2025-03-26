@@ -5,5 +5,5 @@ def move_zeros(a):
             a[i],a[b]=a[b],a[i]
             b+=1
     return a
-a=[2,0,8,0,5,0,3]    
+a=[2,63,8,0,0,8,0,7]    
 print(move_zeros(a))        
