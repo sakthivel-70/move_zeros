@@ -9,6 +9,6 @@ a=[4,6,0,7,0,7,8,9,0]
 
 print(move_zeros(a))        
 '''
-a=100
+a=10
 b=300
 print(a+b)
